@@ -1,3 +1,3 @@
 # TIL
 ## Shell
-* Quitting things
+* [Quitting things](shell/quitting-things.md)
